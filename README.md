@@ -3,7 +3,7 @@
 
 # This is the Repo of my Github Page :p
  
-## You won't be able access the site if you go to []PATH08.github.io
+## You won't be able access the site if you go to [PATH08.github.io]https://path08.github.io
 ## So you needa put www.path08.gq cuz I got a domain xDD
 
 ### Thanx for Dropping bye :DDDD
